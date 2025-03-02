@@ -1,0 +1,28 @@
+.cart{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+.cart-section{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+.price-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 25px;
+    margin: 10px;
+    flex-direction: column;
+    gap: 10px;
+}
